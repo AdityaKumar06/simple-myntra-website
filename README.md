@@ -5,11 +5,16 @@
 This project on GitHub serves as a practical demonstration of front-end development skills.**
 
 
+
+
+
 ## Technologies Used
 
 - HTML
 - CSS
-- JavaScript
+
+
+
 
 
 
