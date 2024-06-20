@@ -5,6 +5,12 @@
 This project on GitHub serves as a practical demonstration of front-end development skills.**
 
 
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
 
 
 ![Screenshot 2024-06-20 181330](https://github.com/AdityaKumar06/simple-myntra-website/assets/132258134/ba4b3039-74f3-4c11-b619-e180b3a88df1)
